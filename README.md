@@ -25,5 +25,5 @@ Current Feature:
 <img width="1081" height="275" alt="image" src="https://github.com/user-attachments/assets/8b2aea40-df31-453a-a664-8e4d51275ec8" />
 <img width="560" height="536" alt="image" src="https://github.com/user-attachments/assets/981b5006-f719-4994-9fb2-5e7120343416" />
 <img width="1920" height="924" alt="image" src="https://github.com/user-attachments/assets/3f333e75-dd3c-4521-9551-2553d2fcd74f" />
-
-No, Hina is not my waifu and I dont like children....
+<br><br>
+*No, Hina is not my waifu and I dont like children....*
